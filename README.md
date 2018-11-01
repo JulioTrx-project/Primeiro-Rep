@@ -1,2 +1,3 @@
-# Primeiro-Rep
-Formação js
+# Meu Primeiro Repositório no GitHub 
+Formação js Mestre jedi
+
